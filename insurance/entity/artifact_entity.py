@@ -20,7 +20,12 @@ class DataTransformationArtifact:
 
 
 
-class ModelTrainerArtifact:...
+@dataclass
+class ModelTrainerArtifact:
+    model_path:str 
+    r2_train_score:float 
+    r2_test_score:float
+
 
 class ModelEvaluationArtifact:...
 
