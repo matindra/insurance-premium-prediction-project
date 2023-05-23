@@ -19,10 +19,10 @@ To give people an estimate of how much they need based on their individual healt
 
 At each step in both development and deployment parts, logging operation is performed which are stored in log folder.
 
-So, now we can find the insurance premium quickly by just passing the mentioned details as an input to the web application 😊
+So, now we can find the insurance premium quickly by just passing the mentioned details as an input to the web application.
 
 #### Web Deployment
-Deployed on web using Heroku (PaaS) url: https://matindra-insurance-premium-prediction-project-app-crn16z.streamlit.app/
+Deployed on web using Streamlit url: https://matindra-insurance-premium-prediction-project-app-crn16z.streamlit.app/
 
 ## Setup
 Create a conda environment
