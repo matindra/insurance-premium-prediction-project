@@ -24,6 +24,16 @@ So, now we can find the insurance premium quickly by just passing the mentioned 
 #### Web Deployment
 Deployed on web using Streamlit url: https://matindra-insurance-premium-prediction-project-app-crn16z.streamlit.app/
 
+## Technologies
+This project is created with below technologies/tools/resorces:
+* Python: 3.9
+* Machine Learning
+* Jupyter Notebook
+* Docker
+* Git
+* CI/CD Pipeline
+* Streamlit
+
 ## Setup
 Create a conda environment
 ```
