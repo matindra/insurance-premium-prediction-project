@@ -85,7 +85,7 @@ pip install -r requirements.txt
 ![Tools](https://user-images.githubusercontent.com/69260855/142414506-f21e3ea1-5956-418e-903d-9835c32f3708.png)
 
 #### High Level Design: 
-URL: https://drive.google.com/file/d/1LYRJLGGGtrsrl-peSfxxfuayBnZgsSvU/view
+URL: https://drive.google.com/file/d/1orDqgXQWhve7WrxedtcOCJZffYveSzHe/view
 
 #### Low Level Design: 
 URL: https://drive.google.com/file/d/1SSx30MvTk1KpUAPQ_KJKSjlJTCqLCSjc/view
